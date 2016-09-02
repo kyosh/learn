@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+# 阶乘
 def power(x, n=2):
     s = 1
     while n > 0:

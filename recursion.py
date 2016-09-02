@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+# µÝ¹é½â¾öººÅµËþ
 def move (n, a, b, c):
     if n == 1:
         return a + '-->' + c + '\n'
